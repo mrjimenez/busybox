@@ -344,6 +344,7 @@ static const char *const i386_sys_types[] = {
 	"\xa8" "Darwin UFS",
 	"\xa9" "NetBSD",
 	"\xab" "Darwin boot",
+	"\xaf" "HFS / HFS+",
 	"\xb7" "BSDI fs",
 	"\xb8" "BSDI swap",
 	"\xbe" "Solaris boot",
